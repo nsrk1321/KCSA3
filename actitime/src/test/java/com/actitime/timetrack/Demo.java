@@ -8,7 +8,7 @@ public class Demo {
 	public void run()
 	{
 		
-	Reporter.log("run successufully", true);
+	Reporter.log("run successufully demo 1", true);
 	Reporter.log("run successufully", true);
 	//hi i am krishna have seen my code????
 	//krishna
